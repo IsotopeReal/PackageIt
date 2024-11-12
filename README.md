@@ -1,255 +1,117 @@
 # PackageIt
- Package 2-4 items into a box ready for easy transport to your factory where you can then unpack them.  
+ PackageIt - Package three different items into a box for convenient logistical transport/storage.  
 
-Use the Package It Machine (Manufacturer) to pack 2-4 items into a box ready for easy transport.  
+Simple Packaging mod for packing singular items into a box for convenient logistical transport/storage. 
+
+Packaging ratio is 15:1, larger ratios can be individually unlocked in the MAM Research.
+Packaging requires a flat pack box which can be crafted with wood.  (Alternative wood recipes added)
+Pack and unpack your singular items in the vanilla Assembler machine.
+Adds a couple essential build boxes that can be packed in the Manufacturer and unpacked at any workbench.
+
+Recipes are split between two different milestones, unlocked at Tier 6 and Tier 9.
+Tier 6 - Contains packaging recipes for items from Tier 0-6. Unlocks 30:1 in the MAM.
+Tier 9 - Contains packaging recipes for items from Tier 7-9. Unlocks 50:1 in the MAM.
 
 
-Require wood/biomass for the cardboard boxes?  
-Alternative recipes for wood/biomass needed if so ^  
-Add extra input for box material? Seperate machine to create the box?  
-Only package crafted materials (no ores/fluids)  
-Some boxes with essential build items can be unpackaged at all workbenches.  
-
-
-Phase 1	
-Tier 4	
-
-Cable  
-Copper Ingot  
-Iron Ingot  
-Iron Plate  
-Iron Rod  
-Reinforced Iron Plate  
-Screw  
-Wire  
-Copper Sheet  
-Modular Frame  
-Rotor  
-Smart Plating  
-Steel Beam  
-Steel Ingot  
-Steel Pipe  
-Versatile Framework  
-Automated Wiring  
-Encased Industrial Beam  
-Motor  
-Stator  
-
-## RECIPES  
-------------------------------------
-
-Iron Ingot  
-Iron Plate  
-Iron Rod  
-Screw  
-
-Iron Plate  
-Iron Rod  
-Screw  
-
-Rotor  
-Motor  
-Stator  
-
-Reinforced Iron Plate  
-Iron Plate  
-Iron Rod  
-Modular Frame  
-
-Reinforced Iron Plate  
-Screw  
-Iron Rod  
-Iron Plate  
-
-Reinforced Iron Plate  
-Modular Frame  
-Rotor  
-Smart Plating  
-
-Copper Ingot  
-Copper Sheet  
-Wire  
-Cable  
-
-Steel Ingot  
-Steel Beam  
-Steel Pipe  
-Encased Industrial Beam  
-
-Smart Plating  
-Automated Wiring  
-Versatile Framework  
-
-Steel Ingot  
-Iron Ingot  
-Concrete  
-
-Steal Beam  
-Steel Pipe  
-Concrete  
-
-Stator  
-Cable  
-Steel Pipe  
-Automated Wiring  
+Add support for Packaging modded items??maybe?
 
 
 
-
-Copper Ingot
-Iron Plate
-Steel Beam
-Motor
-
-Iron Rod
-Reinforced Iron Plate
-Smart Plating
-Wire
-
+## SINGULAR Recipes
+TIER 0 - 6
+Adaptive Control Unit
+Automated Wiring
+Biomass
 Cable
-Screws
-Modular Frame
-Stator
-
+Caterium Ore
+Cement
+Circuit Board
+Coal
+Concrete
+Copper Ingot
+Copper Ore
 Copper Sheet
+Empty Canister
+Encased Industrial Beam
+Heavy Modular Frame
+Iron Ingot
+Iron Ore
+Iron Plate
+Iron Rod
+Limestone
+Metal Pipe
+Modular Engine
+Modular Frame
+Motor
+Packaged Fuel
+Packaged Heavy Oil Residue
+Packaged Liquid Biofuel
+Packaged Oil
+Packaged Water
+Plastic
+Petroleum Coke
+Polymer Resin
+Reinforced Iron Plate
+Rotor
+Rubber
+Screw
+Smart Plating
+Solid Biofuel
+Stator
+Steel Beam
 Steel Ingot
 Steel Pipe
-Rotor
-
 Versatile Framework
-Automated Wiring
-Encased Industrial Beam
-Iron Ingot
-
-Iron Rod
-Motor
-Reinforced Iron Plate
-Copper Sheet
-
-Cable
-Smart Plating
-Stator
-Steel Beam
-
-Screw
 Wire
-Copper Ingot
-Iron Plate
-
-Rotor
-Steel Ingot
-Encased Industrial Beam
-Automated Wiring
-
-Iron Plate
-Copper Sheet
-Versatile Framework
-Modular Frame
-
-Cable, Copper Ingot, Iron Ingot
-Iron Plate, Iron Rod, Reinforced Iron Plate
-Screw, Wire, Copper Sheet
-Modular Frame, Rotor, Smart Plating
-Steel Beam, Steel Ingot, Steel Pipe
-Versatile Framework, Automated Wiring, Encased Industrial Beam
-Motor, Stator, Screw
-Copper Sheet, Iron Rod, Iron Plate
-Reinforced Iron Plate, Rotor, Steel Beam
-Wire, Motor, Automated Wiring
-
-Cable, Copper Ingot, Iron Ingot, Iron Plate
-Iron Rod, Reinforced Iron Plate, Screw, Wire
-Copper Sheet, Modular Frame, Rotor, Smart Plating
-Steel Beam, Steel Ingot, Steel Pipe, Versatile Framework
-Automated Wiring, Encased Industrial Beam, Motor, Stator
-Copper Ingot, Iron Plate, Steel Beam, Motor
-Iron Rod, Reinforced Iron Plate, Wire, Copper Sheet
-Screw, Modular Frame, Smart Plating, Rotor
-Steel Pipe, Versatile Framework, Automated Wiring, Stator
-Copper Ingot, Encased Industrial Beam, Iron Rod, Iron Ingot
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Phase 2	    Tier 5	
-Adaptive Control Unit
-Circuit Board
-Computer
-Empty Canister
-Fuel (Packaged Fuel)
-Heavy Oil Residue (Packaged Heavy Oil Residue)
-Liquid Biofuel (Packaged Liquid Biofuel)
-Modular Engine
-Petroleum Coke
-Plastic
-Polymer Resin
-Rubber
-
-
-Phase 3	   Tier 7	
-Alumina Solution (Packaged Alumina Solution)
+TIER 7 - 9 
+AI Expansion Server
+Alumina Solution
 Aluminum Casing
-Alclad Aluminum Sheet
 Aluminum Ingot
 Aluminum Scrap
+Alclad Aluminum Sheet
 Assembly Director System
+Ballistic Warp Drive
 Battery
-Radio Control Unit
-Sulfuric Acid (Packaged Sulfuric Acid)
-
-
-Tier 8	
-Cooling System
+Biochemical Sculptor
+Bauxite
 Copper Powder
-Electromagnetic Control Rod
+Cooling System
+Dark Matter Crystal
+Diamonds
 Empty Fluid Tank
 Encased Plutonium Cell
 Encased Uranium Cell
+Electromagnetic Control Rod
+Ficsite Ingot
+Ficsite Trigon
+Ficsonium
+Ficsonium Fuel Rod
 Fused Modular Frame
 Heat Sink
 Magnetic Field Generator
-Nitric Acid (Packaged Nitric Acid)
-Non-fissile Uranium
+Neural-Quantum Processor
+Non-Fissile Uranium
 Nuclear Pasta
+Packaged Alumina Solution
+Packaged Nitric Acid
+Packaged Sulfuric Acid
+Packaged Nitrogen Gas
 Plutonium Fuel Rod
 Plutonium Pellet
-Plutonium Waste
 Pressure Conversion Cube
-Thermal Propulsion Rocket
-Turbo Motor
-Uranium Fuel Rod
-Uranium Waste
-
-
-AI Limiter
-Alien DNA Capsule
-Alien Protein
-Black Powder
-Caterium Ingot
-Compacted Coal
-Crystal Oscillator
-Fabric
-High-Speed Connector
-Quickwire
-Power Shard
-Quartz Crystal
-Silica
-Smokeless Powder
+Radio Control Unit
+Reanimated SAM
+SAM
+SAM Fluctuator
+Singularity Cell
+Sulfur
 Supercomputer
-Turbofuel (Packaged Turbofuel)
-
-
-
-
+Superposition Oscillator
+Thermal Propulsion Rocket
+Time Crystal
+Turbo Motor
+Uranium
+Uranium Fuel Rod
