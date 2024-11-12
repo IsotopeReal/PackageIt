@@ -1,19 +1,19 @@
 # PackageIt
- PackageIt - Package three different items into a box for convenient logistical transport/storage.  
+ PackageIt - Package your items into a sturdy cardboard ficsit box for convenient logistical transport/storage.  
 
-Simple Packaging mod for packing singular items into a box for convenient logistical transport/storage. 
+Simple Packaging mod for packing singular items into a box for convenient logistical transport/storage.  
+Packaging ratio is 15:1, larger ratios can be individually unlocked per item in the MAM Research.  
 
-Packaging ratio is 15:1, larger ratios can be individually unlocked in the MAM Research.
-Packaging requires a flat pack box which can be crafted with wood.  (Alternative wood recipes added)
-Pack and unpack your singular items in the vanilla Assembler machine.
-Adds a couple essential build boxes that can be packed in the Manufacturer and unpacked at any workbench.
+Packaging requires a flat pack box which can be crafted with wood.  (Alternative wood recipes added)  
+Pack and unpack your singular items in the vanilla Assembler machine.  
+Adds a couple essential build boxes that can be packed in the Manufacturer and unpacked at any workbench.  
 
-Recipes are split between two different milestones, unlocked at Tier 6 and Tier 9.
-Tier 6 - Contains packaging recipes for items from Tier 0-6. Unlocks 30:1 in the MAM.
-Tier 9 - Contains packaging recipes for items from Tier 7-9. Unlocks 50:1 in the MAM.
+Recipes are split between two different milestones, unlocked at Tier 6 and Tier 9.  
+Tier 6 - Contains packaging recipes for items from Tier 0-6. Unlocks 30:1 in the MAM.  
+Tier 9 - Contains packaging recipes for items from Tier 7-9. Unlocks 50:1 in the MAM.  
 
-
-Add support for Packaging modded items??maybe?
+   
+Add support for Packaging modded items?????
 
 
 
