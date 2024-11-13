@@ -15,8 +15,7 @@ No recipes are unlocked upon Milestone completion, you must research your desire
 This is to prevent recipe spam in the machines menu and only unlock recipes you actually use.  
 
 
-## SINGULAR Recipes
-TIER 0 - 6
+## TIER 0 - 6
 Adaptive Control Unit@
 Automated Wiring@
 Biomass@
@@ -211,3 +210,8 @@ Uranium
 Uranium Fuel Rod
 Versatile Framework@
 Wire@
+
+
+
+
+## Essential Boxes
